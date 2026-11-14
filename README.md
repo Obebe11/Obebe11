@@ -1,14 +1,13 @@
-### Hey, I'm Obi 👋
+### Hey, I'm Obi / Ivan👋
 
-19, from Russia, and honestly a bit obsessed with AI systems. Not "a chatbot with a prompt", but the whole machine around the model: what it reads, what it remembers, how it checks itself, and when it should hand the conversation to a human.
+19, from Russia, and honestly a bit obsessed with AI systems. Right now, I'm really into decision and embedding models—with them, tasks like moderation or classification can become extremely cheap (compared to LLMs, of course).
 
 #### 🧠 What I'm into
 
-- **RAG**: assistants that answer from real documents and show where the answer came from
-- **Agents**: models that take actions, with a confirmation step before anything leaves the building
-- **Memory for agents**: long-term memory that survives between sessions (self-hosted Mem0 + Qdrant)
-- **Evals**: test sets and LLM judges, so "it works" comes with numbers
-- **Multi-agent setups**: several models and coding agents on one task, each with its own job
+- **RAG**: Semantic Search, Memory for Agents
+- **Agents**: Agent systems with self-checking, autonomous operation, and self-improvement
+- **Evals**: test sets and LLM 
+- **Pipelines** Multi-pass systems for accurate validation
 
 #### 🦭 Featured
 
@@ -20,4 +19,4 @@
 
 Open for freelance work: AI assistants over your docs, agents that plug into your CRM, or evals for an LLM feature you already have.
 
-📫 [Ivan_orlov_00@pm.me](mailto:Ivan_orlov_00@pm.me) · 𝕏 [@Obi4_4](https://x.com/Obi4_4)
+📫 [Ivan_orlov_00@pm.me](mailto:Ivan_orlov_00@pm.me) 
