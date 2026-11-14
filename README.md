@@ -1,13 +1,13 @@
-### Hey, I'm Obi / Ivan👋
+### Hey, I'm Obi (Ivan) 👋
 
 19, from Russia, and honestly a bit obsessed with AI systems. Right now, I'm really into decision and embedding models—with them, tasks like moderation or classification can become extremely cheap (compared to LLMs, of course).
 
 #### 🧠 What I'm into
 
-- **RAG**: Semantic Search, Memory for Agents
+- **RAG**: Semantic search,memory for agents
 - **Agents**: Agent systems with self-checking, autonomous operation, and self-improvement
 - **Evals**: test sets and LLM 
-- **Pipelines** Multi-pass systems for accurate validation
+- **Pipelines** : Multi-pass systems for accurate validation
 
 #### 🦭 Featured
 
